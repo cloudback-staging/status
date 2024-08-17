@@ -1,0 +1,50 @@
+:root {
+  --body-background-color: #ffffff;
+  --body-text-color: #242424;
+  --card-background-color: #ffffff;
+  --nav-background-color: #ffffff;
+  --nav-border-bottom-color: #d8e8e4;
+  --nav-current-border-bottom-color: #1abc9c;
+  --card-border-color: #d8e8e4;
+  --down-border-left-color: #eb3b5a;
+  --down-background-color: #ffd0d2;
+  --degraded-border-left-color: #f7b731;
+  --up-border-left-color: #20bf6b;
+  --tag-color: #ffffff;
+  --tag-up-background-color: #20bf6b;
+  --tag-down-background-color: #eb3b5a;
+  --tag-degraded-background-color: #f7b731;
+  --change-background-color: #f7b731;
+  --error-button-border-color: #1a46ad;
+  --error-button-background-color: #3867d6;
+  --error-button-color: #ffffff;
+  --submit-button-border-color: #1a46ad;
+  --submit-button-background-color: #3867d6;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+body, html {
+	font-family: "Poppins", sans-serif !important;
+	padding-bottom: 0px !important;
+}
+
+header {
+	min-height: 300px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    text-align: center !important;
+	background-image: url(https://docs.cloudback.it/status/grid.svg);
+    background-size: cover;
+}
+
+h1 {
+	font-size: 3em !important;
+}
+
+footer {
+	background-color: #f3f4f6;
+    padding: 16px;
+}

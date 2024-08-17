@@ -16,19 +16,50 @@ sites:
   - name: Cloudback Staging Workers
     url: https://app.staging.cloudback.it/health-workers
 
+assignees: # Users to assign downtime issues (optional)
+  - elv1s42
+  
 status-website:
+  metaTags:
+    - name: "og:type"
+      content: "website"
+    - name: "og:title"
+      content: "Cloudback Status"
+    - name: "og:description"
+      content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
+    - name: "og:image"
+      content: "https://framerusercontent.com/images/AjNcufZGlRJ6GrC1bPajejWGUs.png"
+    - name: "og:url"
+      content: "https://cloudback.it/"
+    - name: "description"
+      content: "Automatic backups of your GitHub repositories, metadata and even LFS. Backup to AWS, Azure, OneDrive, Google Cloud, and more. Instant restores and notifications."
+  themeUrl: https://cloudback-staging.github.io/status/custom.css
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  customHeadHtml: > 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">"
+  logoUrl: https://raw.githubusercontent.com/cloudback-staging/status/main/assets/logo.svg
+  favicon: https://raw.githubusercontent.com/cloudback-staging/status/main/assets/logo.png
+  faviconSvg: https://raw.githubusercontent.com/cloudback-staging/status/main/assets/logo.svg
+  introTitle: "The reliable way to back up GitHub repositories"
+  introMessage: Automatic daily backups and instant restores of your GitHub repositories, metadata, and even LFS. Backup to any storage you want.
   navbar:
     - title: Status
       href: /
+    - title: Home
+      href: https://cloudback.it
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/
+i18n:
+  footer: >
+    © 2024 Cloudback  
+    
+    [support@cloudback.it](mailto:support@cloudback.it)  
+    
+    This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
