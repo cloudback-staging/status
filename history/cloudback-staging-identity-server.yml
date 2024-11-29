@@ -1,7 +1,7 @@
 url: https://app.staging.cloudback.it/identity/health
-status: down
-code: 502
-responseTime: 18
-lastUpdated: 2024-11-29T11:27:17.503Z
+status: up
+code: 200
+responseTime: 283
+lastUpdated: 2024-11-29T11:56:58.111Z
 startTime: 2024-08-17T11:13:12.403Z
 generator: Upptime <https://github.com/upptime/upptime>
