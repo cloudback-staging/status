@@ -1,7 +1,7 @@
 url: https://app.staging.cloudback.it/github/health
-status: up
-code: 200
-responseTime: 70
-lastUpdated: 2025-01-18T23:05:30.888Z
+status: down
+code: 502
+responseTime: 28
+lastUpdated: 2025-01-19T21:11:30.284Z
 startTime: 2024-08-17T11:13:13.563Z
 generator: Upptime <https://github.com/upptime/upptime>
