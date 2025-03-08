@@ -1,7 +1,7 @@
 url: https://app.staging.cloudback.it/api/health
 status: up
 code: 200
-responseTime: 335
-lastUpdated: 2025-03-07T23:06:00.004Z
+responseTime: 185
+lastUpdated: 2025-03-08T23:05:31.463Z
 startTime: 2024-08-17T11:13:13.092Z
 generator: Upptime <https://github.com/upptime/upptime>
