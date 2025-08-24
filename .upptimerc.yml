@@ -11,8 +11,6 @@ sites:
     url: https://app.staging.cloudback.it/identity/health
   - name: Cloudback Staging Backend Service
     url: https://app.staging.cloudback.it/api/health
-  - name: Cloudback Staging GitHub Service
-    url: https://app.staging.cloudback.it/github/health
   - name: Cloudback Staging Workers
     url: https://app.staging.cloudback.it/health-workers
 
