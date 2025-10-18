@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 531,
-    "timeWeek": 242,
-    "timeMonth": 225,
+    "timeDay": 158,
+    "timeWeek": 240,
+    "timeMonth": 223,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-web",
     "status": "up",
-    "uptime": "62.72%",
+    "uptime": "62.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.96%",
-    "time": 549,
-    "timeDay": 286,
-    "timeWeek": 320,
-    "timeMonth": 356,
+    "uptimeYear": "68.23%",
+    "time": 548,
+    "timeDay": 418,
+    "timeWeek": 303,
+    "timeMonth": 357,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2025-09-04": 206,
@@ -151,8 +151,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -161,16 +160,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-identity-server",
     "status": "up",
-    "uptime": "61.37%",
+    "uptime": "61.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.96%",
-    "time": 168,
-    "timeDay": 52,
-    "timeWeek": 79,
+    "uptimeYear": "68.23%",
+    "time": 167,
+    "timeDay": 76,
+    "timeWeek": 84,
     "timeMonth": 65,
-    "timeYear": 154,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-09-04": 206,
       "2025-08-29": 28,
@@ -289,8 +288,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -299,16 +297,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-backend-service",
     "status": "up",
-    "uptime": "68.66%",
+    "uptime": "68.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.49%",
+    "uptimeYear": "76.76%",
     "time": 254,
-    "timeDay": 337,
-    "timeWeek": 258,
-    "timeMonth": 312,
-    "timeYear": 258,
+    "timeDay": 280,
+    "timeWeek": 276,
+    "timeMonth": 310,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2025-01-10": 1211,
       "2025-01-09": 1440,
@@ -393,8 +391,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   },
   {
@@ -403,16 +400,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-workers",
     "status": "up",
-    "uptime": "65.88%",
+    "uptime": "65.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.11%",
-    "uptimeYear": "70.38%",
-    "time": 9015,
-    "timeDay": 10064,
-    "timeWeek": 9579,
-    "timeMonth": 9791,
-    "timeYear": 9290,
+    "uptimeMonth": "89.37%",
+    "uptimeYear": "70.65%",
+    "time": 9018,
+    "timeDay": 10302,
+    "timeWeek": 9609,
+    "timeMonth": 9785,
+    "timeYear": 9291,
     "dailyMinutesDown": {
       "2025-09-21": 605,
       "2025-09-20": 1368,
@@ -521,8 +518,7 @@
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
-      "2024-10-19": 1440,
-      "2024-10-18": 1440
+      "2024-10-19": 1440
     }
   }
 ]
