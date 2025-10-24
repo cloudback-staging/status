@@ -381,7 +381,7 @@
     "url": "https://app.staging.cloudback.it/health-workers",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-workers",
-    "status": "up",
+    "status": "down",
     "uptime": "66.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
