@@ -1,7 +1,7 @@
 url: https://app.staging.cloudback.it/health-workers
-status: down
-code: 502
-responseTime: 2942
-lastUpdated: 2025-11-19T19:52:04.609Z
+status: up
+code: 200
+responseTime: 10106
+lastUpdated: 2025-11-19T19:59:19.758Z
 startTime: 2024-08-17T11:13:14.005Z
 generator: Upptime <https://github.com/upptime/upptime>
