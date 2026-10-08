@@ -22,18 +22,20 @@
     "url": "https://app.staging.cloudback.it/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-web",
-    "status": "up",
-    "uptime": "79.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "79.72%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 448,
-    "timeDay": 456,
-    "timeWeek": 454,
-    "timeMonth": 491,
-    "timeYear": 415,
-    "dailyMinutesDown": {}
+    "timeDay": 461,
+    "timeWeek": 456,
+    "timeMonth": 490,
+    "timeYear": 416,
+    "dailyMinutesDown": {
+      "2026-10-08": 0
+    }
   },
   {
     "name": "Cloudback Staging Identity Server",
@@ -41,7 +43,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-identity-server",
     "status": "up",
-    "uptime": "78.97%",
+    "uptime": "78.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -59,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-backend-service",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -76,17 +78,19 @@
     "url": "https://app.staging.cloudback.it/health-workers",
     "icon": "https://icons.duckduckgo.com/ip3/app.staging.cloudback.it.ico",
     "slug": "cloudback-staging-workers",
-    "status": "up",
-    "uptime": "81.42%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "81.44%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 9703,
-    "timeDay": 10311,
-    "timeWeek": 10221,
-    "timeMonth": 10221,
-    "timeYear": 9677,
-    "dailyMinutesDown": {}
+    "time": 9687,
+    "timeDay": 5310,
+    "timeWeek": 8982,
+    "timeMonth": 9867,
+    "timeYear": 9656,
+    "dailyMinutesDown": {
+      "2026-10-08": 0
+    }
   }
 ]
